@@ -1,3 +1,4 @@
+**/*.go
 .DS_Store
 *.[56789ao]
 *.a[56789o]
@@ -18,8 +19,6 @@ _cgo_*
 _obj
 _test
 _testmain.go
-
-**/*.go
 
 /VERSION.cache
 /bin/
